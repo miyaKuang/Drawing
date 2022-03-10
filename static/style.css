@@ -1,0 +1,36 @@
+h1{
+color : #b85c70;
+font-family:'Kaushan Script';
+text-align:center;
+}
+
+body{
+background-color : #2f545c !important;
+}
+
+.header{
+text-align:center;
+}
+
+nav{
+background-color : white;
+height : 40px;
+width : 100%;
+top : 0;
+position : fixed;
+overflow : hidden;
+}
+
+nav a{
+text-decoration : none;
+color : #b85c70;
+}
+
+#submitbutton{
+color : #b48c3c;
+}
+
+#inputtext{
+text-align:center;
+margin-left:500px;
+}
