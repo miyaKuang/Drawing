@@ -1,6 +1,7 @@
 h1{
 color : #b85c70;
 font-family:'Kaushan Script';
+weight : 180;
 text-align:center;
 }
 
@@ -33,4 +34,23 @@ color : #b48c3c;
 #inputtext{
 text-align:center;
 margin-left:500px;
+}
+
+.row{
+background-color: #87BBA2;
+padding-top: 50px;
+padding-bottom: 200px;
+display: flex;
+
+}
+
+.col{
+max-width: 50%;
+}
+
+p{
+font-family:'Kaushan Script';
+text-align:center;
+color : #b85c70;
+font-size:180;
 }
