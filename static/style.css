@@ -54,3 +54,11 @@ text-align:center;
 color : #b85c70;
 font-size:180;
 }
+
+img{
+object-fit:contain;
+}
+
+
+
+
